@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700");
+@import url("https://fonts.googleapis.com/css2?family=Abel&display=swap");
+
+* {
+  box-sizing: border-box;
+  font-family: "Abel", "Lato", sans-serif;
+  font-size: 16px;
+}
+body {
+  margin: 0;
+  background-color: #03a9f4;
+}
+
+h1 {
+    padding: 10px;
+    margin-left: 40px;
+    font-size: 25px;
+    color: aliceblue;
+}
+
+.card-form {
+    padding: 50px;
+}
+
+#form-checkout__submit{
+    color: #3f51b5;
+    font-size: 20px;
+    background-color: #ffd740;
+    border-radius: 5px;
+}
